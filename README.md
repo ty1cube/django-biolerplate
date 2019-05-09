@@ -1,4 +1,4 @@
-#django_project_boilerplate
+##django_project_boilerplate
 
 A boilerplate Django project for quickly getting started
 
